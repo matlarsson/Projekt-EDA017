@@ -18,7 +18,7 @@ public class Fridge {
 	public void addItem(FoodItem foodItem){
 		// Lägger in i listan
 		foodItems.add(foodItem);
-		//patobi
+		
 		
 //		// Lägger in i filen
 //		String name = foodItem.getName();
@@ -28,7 +28,8 @@ public class Fridge {
 //					    BufferedWriter bw = new BufferedWriter(fw);
 //					    PrintWriter out = new PrintWriter(bw))
 //					{
-//					
+//					adawdadaw
+	///	awdawdawd
 //					out.printf("\n%d %s", date, name);
 //					    
 //					} catch (IOException e) {
