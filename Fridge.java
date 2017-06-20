@@ -18,6 +18,7 @@ public class Fridge {
 	public void addItem(FoodItem foodItem){
 		// Lägger in i listan
 		foodItems.add(foodItem);
+		//patobi
 		
 //		// Lägger in i filen
 //		String name = foodItem.getName();
