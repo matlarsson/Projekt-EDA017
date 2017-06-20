@@ -1,0 +1,66 @@
+//	public void getCommando(){
+
+//		boolean received = false;
+//		while(!received){
+//			
+//			// Läser av vilken siffra som skrivs in i editor
+//			String commandoString = editor.getText();
+//			
+//			if(!commandoString.equals("1") || !commandoString.equals("2") || !commandoString.equals("3")){
+//				commandoString = "0";
+//			}
+//			
+//			// Ändrar siffran från String till int
+//			int commando = Integer.parseInt(commandoString);
+//			
+//			switch(commando){
+//				case 1:
+//					// Skriv in ny vara
+//					console.setText("Haj");
+//					received = true;
+//					break;
+//				case 2:
+//					// Skriv ut varor i kylskåpet
+//					break;
+//				case 3:
+//					// Ta bort vara
+//					break;
+//				default:
+//					break;
+//			}
+//		}
+//	}
+	
+//	// Test för actionListener
+//	public void actionPerformed(ActionEvent e){
+//		String text = editor.getText();
+//        console.append(text);
+//        editor.selectAll();
+//
+//	}
+	
+//	public void actionPerformed(ActionEvent e){
+//		// Läser av vilken siffra som skrivs in i editor
+//		String commandoString = editor.getText();
+//		// Ändrar siffran från String till int
+//		int commando = Integer.parseInt(commandoString);
+//		
+//		switch(commando){
+//			case 1:
+//				// Skriv in ny vara
+//				methodOne();
+//				
+//				break;
+//			case 2:
+//				// Skriv ut varor i kylskåpet
+//				console.setText("Hå.");
+//				break;
+//			case 3:
+//				// Ta bort vara
+//				console.setText("Butts!");
+//				break;
+//			default:
+//				break;
+//		}
+//	}
+//	
